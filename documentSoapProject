@@ -1,0 +1,8 @@
+STUB IMPLEMENTATION
+1.	I have used SOAP UI to create a rest project for the implementation of github api.
+2.	You will need SOAP UI installed on your machine to test these scenarios.
+3.	You can import the xml file after clicking on import project from File Menu of SOAP UI.
+4.	Two very basic test cases are implemented
+a)	Root End Point
+b)	Search for all the repos with the name tetris
+5.	I did not added any assertions but for any test step, there should be assertions like 200 https status code or if we need to see a particular value in response.
